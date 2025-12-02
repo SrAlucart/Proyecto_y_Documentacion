@@ -114,15 +114,15 @@ Desarrollar una plataforma digital para la reserva inteligente de parqueaderos e
 | Fase          | Actividades Principales                                       |
 |---------------|---------------------------------------------------------------|
 | 🧪 Sprint 0    | Entrevistas, análisis, definición del stack tecnológico       |
-| 🧠 Sprint 1    | Modelado de base de datos, diseño de prototipos (Figma)       |
-| 🧱 Sprint 2-4  | Desarrollo de módulos (reserva, pagos, mapas, autenticación)  |
+| 🧠 Sprint 1    | Modelado de base de datos, diseño de prototipos        |
+| 🧱 Sprint 2-4  | Desarrollo de módulos (reserva, mapas, autenticación)  |
 | 🧪 Sprint Final| Pruebas con usuarios, documentación y ajustes finales         |
 
 ---
 
 ## 📈 Resultados Esperados
 
-- MVP funcional con reservas, mapas y pagos.
+- MVP funcional con reservas, mapas.
 - Reducción del 15% en tiempo promedio de búsqueda de parqueo.
 - Documentación técnica y manual de usuario.
 - Escalabilidad para integración con transporte público (Metro de Medellín).
@@ -132,7 +132,7 @@ Desarrollar una plataforma digital para la reserva inteligente de parqueaderos e
 ## 🧠 Lecciones y Proyección
 
 - Desarrollo ágil con enfoque MVP.
-- Integración de APIs: Google Maps, Wompi.
+- Integración de APIs: Google Maps, Leaflet.
 - UX/UI orientado a usabilidad real.
 - Proyección a ciudades intermedias en Colombia.
 
@@ -156,3 +156,4 @@ Proyecto desarrollado como parte del **Proyecto Pedagógico Integrador** del SEN
 <p align="center">
   <strong>🚀 Refugio Rodante: Haciendo de Medellín una ciudad más inteligente</strong>
 </p>
+
