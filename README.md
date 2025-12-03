@@ -24,7 +24,7 @@
 
 ## 🧠 Descripción General
 
-**Refugio Rodante** es una plataforma web que busca resolver la escasez y desorganización de parqueaderos en Medellín. A través de reservas digitales, mapas interactivos y pagos en línea, la aplicación mejora la experiencia del conductor y contribuye a descongestionar zonas críticas de la ciudad.
+**Refugio Rodante** es una plataforma web que busca resolver la escasez y desorganización de parqueaderos en Medellín. A través de reservas digitales, mapas interactivos, la aplicación mejora la experiencia del conductor y contribuye a descongestionar zonas críticas de la ciudad.
 
 ---
 
@@ -40,7 +40,6 @@
 
 - 🗺️ Mapa interactivo con disponibilidad en tiempo real.
 - 📲 Sistema de reservas anticipadas desde app/web.
-- 💳 Integración con múltiples métodos de pago (efectivo, tarjeta, móvil).
 - 🔔 Notificaciones automáticas y recordatorios para evitar sanciones.
 
 ---
@@ -48,12 +47,12 @@
 ## 🎯 Objetivos
 
 ### 🎯 Objetivo General
-Desarrollar una plataforma digital para la reserva inteligente de parqueaderos en Medellín, integrando geolocalización, pagos digitales y recordatorios automáticos.
+Desarrollar una plataforma digital para la reserva inteligente de parqueaderos en Medellín, integrando geolocalización.
 
 ### ✅ Objetivos Específicos
 - Levantar requerimientos con usuarios y administradores de parqueaderos.
 - Diseñar base de datos y prototipos de la interfaz.
-- Implementar módulos de reserva, pago y visualización.
+- Implementar módulos de reserva y visualización.
 - Probar el sistema con usuarios reales y documentar el proceso.
 
 ---
@@ -125,7 +124,7 @@ Desarrollar una plataforma digital para la reserva inteligente de parqueaderos e
 - MVP funcional con reservas, mapas.
 - Reducción del 15% en tiempo promedio de búsqueda de parqueo.
 - Documentación técnica y manual de usuario.
-- Escalabilidad para integración con transporte público (Metro de Medellín).
+- Escalabilidad para integración con transporte público.
 
 ---
 
@@ -156,4 +155,5 @@ Proyecto desarrollado como parte del **Proyecto Pedagógico Integrador** del SEN
 <p align="center">
   <strong>🚀 Refugio Rodante: Haciendo de Medellín una ciudad más inteligente</strong>
 </p>
+
 
